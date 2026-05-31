@@ -4,6 +4,8 @@
 
 <p align="center">
   <img src="assets/photo.png" width="200" alt="Yifei Liu" />
+  <img src="assets/face.jfif" width="200" alt="Yifei Liu" />
+  <img src="assets/fish.jfif" width="200" alt="Yifei Liu" />
 </p>
 
 # 你好，我是刘逸飞 (Yifei Liu) 👋
