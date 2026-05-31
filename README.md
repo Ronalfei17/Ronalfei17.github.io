@@ -13,6 +13,8 @@
 > **M.Sc. Student in Immersive Technologies (Virtual and Augmented Reality) @ University of Bristol**  
 > **Aspiring Researcher in XR Interaction | Deep Learning | 3D World Models**
 
+I am currently seeking **PhD Opportunities** related to **Generative AI with VR environments or VR interaction**.
+
 I am a researcher dedicated to building XR powered by **Generative AI**.
 Looking ahead, I aim to pursue research with the ambition of reaching **Best Paper-level** impact.
 
