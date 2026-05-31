@@ -12,6 +12,34 @@
 > **Aspiring Researcher in XR Interaction | Deep Learning | 3D World Models**
 
 I am a researcher dedicated to building XR powered by **Generative AI**.
+Looking ahead, I aim to pursue research with the ambition of reaching **Best Paper-level** impact.
+
+---
+
+## 🚀 Featured Projects
+
+### Liar VR: Full-Body Multiplayer Deception Game
+**2026.02 - 2026.05** | A multiplayer VR deception card game that uses full-body tracking to read gestures and body language.
+
+- [Demo Video](https://www.youtube.com/watch?v=oPDAqGpKcfY&t=14s)
+- **Multiplayer Sync:** Implemented VR scene synchronization with **Photon** and explored object ownership switching in online multiplayer environments.
+- **Full-Body Interaction:** Integrated **Unity Movement SDK** with Meta Quest 3 sensor data to drive virtual avatars, enabling gesture interaction and body movement.
+- **Physical Cards:** Built an interactive physical card-grabbing system using **Meta XR Interaction SDK**, strengthening the core social deception gameplay.
+
+### AR Cocktail: Immersive AR Ordering System
+**2026.02 - 2026.05** | An immersive AR ordering prototype that generates and presents 3D cocktail models for a more visual menu experience.
+
+- [Demo Short](https://www.youtube.com/shorts/217OUgr1wzI)
+- **AR Workflow:** Learned and applied **AR Foundation** fundamentals to build an augmented reality ordering interaction.
+- **3D Presentation:** Explored displaying 3D cocktail models in an AR scene to make product selection more spatial and engaging.
+- **Spatial UX:** Developed a practical understanding of AR project structure, scene setup, and interactive presentation design.
+
+### Sonic Playground: Immersive Spatial Audio in VR
+**2025.10 - 2025.12** | Developed an interactive VR exhibition on Meta Quest 3 exploring acoustic physics.
+
+- [Code](https://github.com/Ronalfei17/Yifei-Personal-Page/tree/Sonic-Playground) · [Demo Video 演示视频](https://www.bilibili.com/video/BV1KJFvz4ERD)
+- **Interaction:** Leveraged Meta XR Interaction SDK for precise engagement.
+- **Acoustics:** Integrated **Steam Audio** for real-time sound propagation.
 
 ---
 
@@ -47,22 +75,12 @@ Generative AI for XR | 3D Computer Vision
 **Technical Stack**  
 PyTorch, Unity, Python, Meta XR SDK
 
----
-
-## 🚀 Featured Project
-
-### Sonic Playground: Immersive Spatial Audio in VR
-**2025.10 - 2025.12** | Developed an interactive VR exhibition on Meta Quest 3 exploring acoustic physics.
-
-- [Code](https://github.com/Ronalfei17/Yifei-Personal-Page/tree/Sonic-Playground) · [Demo Video 演示视频](https://www.bilibili.com/video/BV1KJFvz4ERD)
-- **Interaction:** Leveraged Meta XR Interaction SDK for precise engagement.
-- **Acoustics:** Integrated **Steam Audio** for real-time sound propagation.
+**Collaboration**  
+Experienced with GitHub and GitLab for team-based development, version control, issue tracking, and project communication. Comfortable collaborating through branches, merge requests/pull requests, code review, and clear technical discussion.
 
 ---
 
 ## 🏆 Sports
-
-My background as a football enthusiast and recovery from a major ACL injury have forged a resilient character capable of maintaining intense focus under research pressure.
 
 - **Runner-up**, Hunan University Football Cup.
 
