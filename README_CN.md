@@ -49,6 +49,9 @@
 
 ## 📚 文献阅读与复现
 
+- [RingGesture: A Ring-Based Mid-Air Gesture Typing System Powered by a Deep-Learning World Prediction Framework](https://www.bilibili.com/video/BV1VvVC6LEHF/?spm_id_from=333.1387.homepage.video_card.click&vd_source=d467c9f30b2f0c441943680a650a1835)
+- [Duo Streamers: A Streaming Gesture Recognition Framework](https://www.bilibili.com/video/BV1CiVy6YEFE/?spm_id_from=333.1387.homepage.video_card.click&vd_source=d467c9f30b2f0c441943680a650a1835)
+- [Simulating Realistic Human Motion Trajectories of Mid-Air Gesture Typing](https://www.bilibili.com/video/BV1RuVk6VEAq/?spm_id_from=333.1387.homepage.video_card.click&vd_source=d467c9f30b2f0c441943680a650a1835)
 - [Evaluating the Usability of Microgestures for Text Editing Tasks in Virtual Reality](https://www.bilibili.com/video/BV1QzfpBcEM4/?spm_id_from=333.1387.homepage.video_card.click&vd_source=d467c9f30b2f0c441943680a650a1835)
 - [Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays](https://www.bilibili.com/video/BV1bhfxBNE6a/?spm_id_from=333.1387.homepage.video_card.click&vd_source=d467c9f30b2f0c441943680a650a1835)
 - [Handows: A Palm-Based Interactive Multi-Window Management System in Virtual Reality](https://www.bilibili.com/video/BV1QsfxBMEYz/?spm_id_from=333.1387.homepage.video_card.click&vd_source=d467c9f30b2f0c441943680a650a1835)
