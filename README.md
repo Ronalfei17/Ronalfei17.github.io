@@ -50,7 +50,6 @@ Looking ahead, I aim to pursue research with the ambition of reaching **Best Pap
 ## 📚 Paper Reading & Reproduction
 
 - [RingGesture: A Ring-Based Mid-Air Gesture Typing System Powered by a Deep-Learning World Prediction Framework](https://www.bilibili.com/video/BV1VvVC6LEHF/?spm_id_from=333.1387.homepage.video_card.click&vd_source=d467c9f30b2f0c441943680a650a1835)
-- [Simulating Realistic Human Motion Trajectories of Mid-Air Gesture Typing](https://www.bilibili.com/video/BV1RuVk6VEAq/?
 - [Duo Streamers: A Streaming Gesture Recognition Framework](https://www.bilibili.com/video/BV1CiVy6YEFE/?spm_id_from=333.1387.homepage.video_card.click&vd_source=d467c9f30b2f0c441943680a650a1835)
 - [Simulating Realistic Human Motion Trajectories of Mid-Air Gesture Typing](https://www.bilibili.com/video/BV1RuVk6VEAq/?spm_id_from=333.1387.homepage.video_card.click&vd_source=d467c9f30b2f0c441943680a650a1835)
 - [Evaluating the Usability of Microgestures for Text Editing Tasks in Virtual Reality](https://www.bilibili.com/video/BV1QzfpBcEM4/?spm_id_from=333.1387.homepage.video_card.click&vd_source=d467c9f30b2f0c441943680a650a1835)
