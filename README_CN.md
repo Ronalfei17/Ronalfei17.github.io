@@ -1,6 +1,6 @@
 # Yifei Liu 个人网站
 
-这是 Yifei Liu 的静态个人网站。
+这是 Yifei Liu 个人网站。
 
 结构：
 
@@ -15,4 +15,3 @@
 2. XR Interaction
 3. World Models
 
-部署时，把本文件夹里的所有内容上传到 GitHub Pages 仓库根目录。
