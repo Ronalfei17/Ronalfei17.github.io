@@ -346,8 +346,9 @@ img {
 }
 
 .work-card img {
+  display: block;
   width: 100%;
-  aspect-ratio: 16 / 9;
+  height: 14rem;
   margin-bottom: 1rem;
   border: 1px solid var(--accent);
   object-fit: cover;
@@ -389,25 +390,22 @@ img {
   margin: 0 auto;
 }
 
-.portrait-wrap {
-  width: min(100%, 30rem);
-  margin: 0 auto 3rem;
-}
-
-.portrait-wrap img {
-  width: 100%;
-  aspect-ratio: 1;
-  border: 1px solid var(--accent);
-  object-fit: cover;
-}
-
-.personal-photo {
+.portrait-pair {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
   margin: 0 0 3rem;
 }
 
+.portrait-wrap,
+.personal-photo {
+  margin: 0;
+}
+
+.portrait-wrap img,
 .personal-photo img {
   width: 100%;
-  aspect-ratio: 4 / 3;
+  aspect-ratio: 1;
   border: 1px solid var(--accent);
   object-fit: cover;
 }
