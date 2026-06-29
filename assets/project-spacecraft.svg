@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Spacecraft project image</title>
+  <desc id="desc">An abstract computer graphics space game scene with a spacecraft, Earth, treasures, and asteroids.</desc>
+  <rect width="900" height="520" fill="#f7faf8"/>
+  <rect x="52" y="52" width="796" height="416" fill="#ffffff" stroke="#5bffc1" stroke-width="6"/>
+  <circle cx="450" cy="278" r="104" fill="#414946"/>
+  <path d="M372 266c38 16 78 22 120 16s76-22 102-48" fill="none" stroke="#5bffc1" stroke-width="10" stroke-linecap="round"/>
+  <path d="M202 266l86-34-24 58 64 28-88 34 24-60z" fill="#ffffff" stroke="#414946" stroke-width="8" stroke-linejoin="round"/>
+  <g fill="#5bffc1">
+    <circle cx="596" cy="168" r="18"/>
+    <circle cx="664" cy="322" r="16"/>
+    <circle cx="326" cy="386" r="14"/>
+    <circle cx="724" cy="214" r="12"/>
+    <circle cx="258" cy="154" r="11"/>
+  </g>
+  <g fill="none" stroke="#dfe6e2" stroke-width="8">
+    <circle cx="178" cy="392" r="30"/>
+    <circle cx="714" cy="392" r="36"/>
+    <circle cx="688" cy="118" r="28"/>
+  </g>
+  <text x="450" y="94" text-anchor="middle" fill="#414946" font-family="Arial, sans-serif" font-size="34" font-weight="700">Spacecraft</text>
+</svg>
