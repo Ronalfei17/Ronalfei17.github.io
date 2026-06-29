@@ -391,33 +391,29 @@ img {
   margin: 0 auto;
 }
 
-.portrait-pair {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 1rem;
-  margin: 0 0 3rem;
-}
-
+/* ==========================================================================
+   这里是为您修改的图片排版区域 (Portrait Pair Section)
+   ========================================================================== */
 .portrait-wrap,
 .personal-photo {
   margin: 0;
 }
 
 .portrait-pair {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1rem;
-  max-width: 28rem;
+  display: flex;         /* 改为 flex 布局让两张图并列 */
+  gap: 1.25rem;          /* 两张图之间的间距 */
   margin: 0 0 3rem;
 }
 
 .portrait-wrap img,
 .personal-photo img {
-  width: 100%;
-  aspect-ratio: 1;
+  width: 140px;          /* 固定的宽度（变小） */
+  height: 140px;         /* 固定的高度 */
   border: 1px solid var(--accent);
-  object-fit: cover;
+  object-fit: cover;     /* 防止图片缩放时变形 */
+  border-radius: 4px;    /* 增加一点精致的微圆角 */
 }
+/* ========================================================================== */
 
 .lead-quote {
   margin: 0 0 3rem;
