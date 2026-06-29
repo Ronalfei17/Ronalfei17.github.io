@@ -392,29 +392,32 @@ img {
 }
 
 /* ==========================================================================
-   这里是为您修改的图片排版区域 (Portrait Pair Section)
+   这里是为您优化后的图片自适应排版区域 (Portrait Pair Section)
    ========================================================================== */
 .portrait-wrap,
 .personal-photo {
   margin: 0;
+  flex: 1;               /* 让两张图平分容器宽度，保证各占一半 */
+  min-width: 0;          /* 防止 flex 容器被子元素撑大 */
 }
 
 .portrait-pair {
-  display: flex;         /* 改为 flex 布局让两张图并列 */
-  gap: 1.25rem;          /* 两张图之间的间距 */
-  margin: 0 0 3rem;
+  display: flex;         /* flex布局并列 */
+  gap: 1.5rem;           /* 两张图之间的间距 */
+  width: 100%;           /* 宽度填满父级文字区域，不再向外溢出 */
+  max-width: 38rem;      /* 保持和文字区域最大宽度一致 */
+  margin: 0 auto 3rem;   /* 居中并对齐下方的段落 */
 }
 
 .portrait-wrap img,
 .personal-photo img {
-  width: 300px;          /* 固定的宽度（变小） */
-  height: 300px;         /* 固定的高度 */
+  width: 100%;           /* 宽度自动充满它所在的格 */
+  aspect-ratio: 3 / 4;   /* 【核心：控制比例】3:4的垂直黄金比例，比正方形长，且绝不变形 */
   border: 1px solid var(--accent);
-  object-fit: cover;     /* 防止图片缩放时变形 */
-  border-radius: 4px;    /* 增加一点精致的微圆角 */
+  object-fit: cover;     /* 智能裁剪，防止图片缩放时拉伸或压扁 */
+  border-radius: 4px;    /* 微圆角 */
 }
 /* ========================================================================== */
-
 .lead-quote {
   margin: 0 0 3rem;
   padding: 1rem;
