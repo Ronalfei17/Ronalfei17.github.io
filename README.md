@@ -6,7 +6,7 @@ Structure:
 
 - `index.html` - animated landing page.
 - `work.html` - immersive technology projects.
-- `words.html` - paper reproduction and study notes.
+- `video.html` - paper reproduction and study notes.
 - `who.html` - short bio, education, interests, and contact.
 
 Interests:
