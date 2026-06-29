@@ -407,8 +407,8 @@ img {
 
 .portrait-wrap img,
 .personal-photo img {
-  width: 300px;          /* 固定的宽度（变小） */
-  height: 500px;         /* 固定的高度 */
+  width: 500px;          /* 固定的宽度（变小） */
+  height: 800px;         /* 固定的高度 */
   border: 1px solid var(--accent);
   object-fit: cover;     /* 防止图片缩放时变形 */
   border-radius: 4px;    /* 增加一点精致的微圆角 */
